@@ -1,0 +1,21 @@
+Thara Radha Palaniswamy
+101189487
+Array.h
+Album.cc
+AlbumCreator.cc
+Criteria.cc
+Photogram.cc
+Mediafactory.cc
+Photo.cc
+Date.cc
+Main.cc
+View.cc
+And their respective .h files
+Makefile
+
+Compile and running instructions:
+
+Make 
+
+./a4
+
